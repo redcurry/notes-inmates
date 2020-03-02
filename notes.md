@@ -8,3 +8,8 @@
 
 - Users don't really care about features, they only care about achieving their
   goals. Sometimes a feature allows them to do that, but many don't. (p. 47)
+
+- It's wasteful to design software by iterating through many
+  versions that users must fight through. (p. 51)
+
+- Throw away the prototype. (p. 57)
